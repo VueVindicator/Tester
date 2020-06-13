@@ -20,7 +20,7 @@ const apiHost = 'awis.api.alexa.com'
 const credentialsFile = '.alexa.credentials'
 const fs = require('fs');
 
-const global_password = 'connected123?'
+const global_password = ''
 
 AWS.config.region = awsRegion;
 global.fetch = require("node-fetch");
