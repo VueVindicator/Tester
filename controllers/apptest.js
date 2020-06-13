@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 
 const global_email = 'david.ajayi.anu@gmail.com'
 
-let apiKey = 'wQDQtNH6wx5ck2x0yp3sg7zotJntxPIKvFHciZL4';
+let apiKey = '';
 let site = 'www.google.com';
 
 const getValues = (url) => {
